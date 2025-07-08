@@ -7,8 +7,7 @@ This dataset is designed specifically for the task of **detecting small liver tu
 ---
 
 - Focused on **small tumor instances**
-- Includes curated CT slices centered around annotated lesions
-- Expert annotated bounding box labels
+- This dataset includes carefully selected CT slices that contain small liver tumors, each annotated with bounding box labels provided by experienced radiologists.
 
 ---
 

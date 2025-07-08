@@ -24,12 +24,13 @@ You can download the full dataset here:
 
 If you use this dataset in your work, please cite:
 
-@inproceedings{
-li2025pcayolo,
-title={{PCA}-{YOLO}: A Small Liver Tumor Detection Model with Patch-Contrastive Attention},
-author={Xueyang Li and Han Xiao and Zongpeng Weng and Xinrong Hu and Danny Chen and Yiyu Shi},
-booktitle={Medical Imaging with Deep Learning},
-year={2025},
-url={https://openreview.net/forum?id=iEBZjNZ63T}
+```bibtex
+@inproceedings{li2025pcayolo,
+  title     = {{PCA}-{YOLO}: A Small Liver Tumor Detection Model with Patch-Contrastive Attention},
+  author    = {Xueyang Li and Han Xiao and Zongpeng Weng and Xinrong Hu and Danny Chen and Yiyu Shi},
+  booktitle = {Medical Imaging with Deep Learning},
+  year      = {2025},
+  url       = {https://openreview.net/forum?id=iEBZjNZ63T}
 }
+
 

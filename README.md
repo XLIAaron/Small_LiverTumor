@@ -10,9 +10,9 @@ This dataset is designed specifically for detecting **small liver tumors** from 
 
 Existing segmentation datasets (e.g., LiTS) are not optimized for tumor **detection**:
 
-- Bounding boxes converted from segmentation masks are often **ambiguous**, especially for small or adjacent tumors.
-- Most segmentation datasets include **easy slices**; this dataset emphasizes **challenging small-lesion cases**.
-- Bounding box annotation is **faster and more clinically aligned** than segmentation masks.
+- Bounding boxes converted from segmentation masks are often ambiguous, especially for small or adjacent tumors.
+- Most segmentation datasets include easy slices; this dataset emphasizes challenging small-lesion cases.
+- Bounding box annotation is faster and more clinically aligned than segmentation masks.
 
 ---
 

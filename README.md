@@ -1,4 +1,4 @@
-# Small Liver Tumor Detection (SLTD) Dataset: Tailored for Small Liver Tumor Detection
+# SLTD Dataset: Tailored for Small Liver Tumor Detection
 
 This dataset is designed specifically for the task of **detecting small liver tumors** from contrast-enhanced CT scans. It is released alongside our paper:
 
